@@ -1,3 +1,4 @@
+# About US 
 *Deeperlytics Technologies (PTY) LTD  does more than just developing software. We help our clients solve
 data challenges through Artificial Intelligence-backed data analytics and software automation. Deeperlytics
 Technologies brings a wide range of digital transformation solutions: Predictive Web applications, Machine
@@ -7,21 +8,28 @@ teams and tribes are formed. We are tightly aligned with your business.
 
 
 # Our services
-Predictive Web Applications
+* Predictive Web Applications
 Learn how to leverage Predictive Apps to
 effectively meet your business objectives.
 
-DEVOPS & SUPPORT
+* DEVOPS & SUPPORT
 Fast delivery and continual improvement
 through repeatable and automated code.
 
-CLOUD
+* CLOUD
 The question is not whether you should
 adopt the Cloud, but how best to do it.
 
-AI Training & Research
+* AI Training & Research
 Client capacity building and services should
 be seamless & enjoyable.
+
+# Collaboration
+To collaborate with us, send us a message at deeperlytics@gmail.com or send us a PR.
+
+# News and Media
+Our clients
+Still to come
 
 # Contacts
 Plot 2827, Extension 10, Gaborone, Botswana
