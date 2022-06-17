@@ -9,34 +9,42 @@ teams and tribes are formed. We are tightly aligned with your business.
 
 # Our services
 * Predictive Web Applications
-Learn how to leverage Predictive Apps to
-effectively meet your business objectives.
+
+Learn how to leverage Predictive Apps to effectively meet your business objectives.
 
 * DEVOPS & SUPPORT
-Fast delivery and continual improvement
-through repeatable and automated code.
+
+Fast delivery and continual improvement through repeatable and automated code.
 
 * CLOUD
-The question is not whether you should
-adopt the Cloud, but how best to do it.
+
+The question is not whether you should adopt the Cloud, but how best to do it.
 
 * AI Training & Research
-Client capacity building and services should
-be seamless & enjoyable.
+
+Client capacity building and services should be seamless & enjoyable.
 
 # Collaboration
 To collaborate with us, send us a message at deeperlytics@gmail.com or send us a PR.
 
 # News and Media
 Our clients
+
 Still to come
 
 # Contacts
 Plot 2827, Extension 10, Gaborone, Botswana
-E: deeperlytics@gmail.com
+
+**E: deeperlytics@gmail.com
+
 W: https://github.com/deeperlytics
 
-Deeperlytics - Solving dataintelligence
+**Deeperlytics - Solving data intelligence
+
 ©Deeperlytics
 
-Contact: +267 75470895/78047900
+Contact: Thabiso Kgalemang 
+
+CEO Deeperlytics
+
++267 75470895/78047900
