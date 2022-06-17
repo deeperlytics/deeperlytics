@@ -35,11 +35,11 @@ Still to come
 # Contacts
 Plot 2827, Extension 10, Gaborone, Botswana
 
-**E: deeperlytics@gmail.com
+**E: deeperlytics@gmail.com**
 
 W: https://github.com/deeperlytics
 
-**Deeperlytics - Solving data intelligence
+**Deeperlytics - Solving data intelligence**
 
 ©Deeperlytics
 
