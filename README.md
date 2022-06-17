@@ -1,4 +1,7 @@
 # About US 
+
+**Deeperlytics - 'Solving Data Intelligence'**
+
 *Deeperlytics Technologies (PTY) LTD  does more than just developing software. We help our clients solve
 data challenges through Artificial Intelligence-backed data analytics and software automation. Deeperlytics
 Technologies brings a wide range of digital transformation solutions: Predictive Web applications, Machine
@@ -33,18 +36,15 @@ Our clients
 Still to come
 
 # Contacts
-Plot 2827, Extension 10, Gaborone, Botswana
+
+Address: Plot 14061, Gaborone West, Botswana
 
 **E: deeperlytics@gmail.com**
 
 W: https://github.com/deeperlytics
 
-**Deeperlytics - Solving data intelligence**
-
-©Deeperlytics
-
-Contact: Thabiso Kgalemang 
-
-CEO Deeperlytics
+For more info Contact: Thabiso Kgalemang, CEO Deeperlytics
 
 +267 75470895/78047900
+
+©Deeperlytics
